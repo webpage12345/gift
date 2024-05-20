@@ -4,19 +4,19 @@ $(document).ready(function () {
      */
     var content = [{
         title: "I Have Crush On You!!",
-        desc: ""
+        desc: "Irish"
     }, {
         title: "I Have Crush On You!!",
-        desc: "mungkin itu sebuah kalimat yg cukup simple, kalimat yang menyimpan banyak harapan juga keraguan dibaliknya. ada harapan yg ingin rasa suka itu tidak jatuh sendirian, juga ada yg harus disiapkan agar bisa menerima konsekuensinya."
+        desc: "I hope you're having a great day! I just wanted to let you know that I've really enjoyed getting to know you. You're an amazing person, and I find myself looking forward to our conversations more and more."
     }, {
-       title: "",
-       desc: "menyatakan perasaan itu hal yg cukup serius, banyak yg akan dikorbankan termasuk hasil akhirnya melepas hal yg sudah Iama tersimpan itu cukup melegakan dan bukan hal yg mudah.Disini Aku cuman mau ungkapin perasaan aku sama kamu,masalah diterima atau ngga itu tergantung kamu nya,aku juga gak bakal berharap lebih kok"
+       title: "Be my Last",
+       desc: "I truly believe that you could be the one for me, my last and only. I want to cherish every moment with you and build something beautiful together.Would you consider being my last?"
     }, {
-        title: "",
-        desc: "Kalau Kamu Risih Bilang yahh,'I Have Crush On You',Semisal kamu udah punya pacar maaf yaa karna udah confess ke kamu...mungkin segitu saja dari aku,hehe makasih yaa sudah mau dibaca."
+        title: "I love so much",
+        desc: "I Have Crush On You', hope you're doing well. I've been meaning to share something important with you. Over the time we've spent together, I've come to realize how much I cherish our connection. I truly like you and have developed deep feelings for you. You mean a lot to me, and I just wanted to let you know that I love you."
     }, {
         title: "I Have Crush On You!!",
-        desc: "Aku tunggu Balasan Mu:)"
+        desc: "Emman:)"
  }];
     var currentPage = 0;
     //generate content
